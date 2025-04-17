@@ -176,7 +176,7 @@ const updateHelperCSS = () => {
           ro: 'Controlul volumului',
           pl: 'Regulacja głośności'
         },
-        captions: {
+       /* captions: {
           en: 'Captions',
           ar: 'التسميات التوضيحية',
           ur: 'کیپشنز',
@@ -188,7 +188,7 @@ const updateHelperCSS = () => {
           ro: 'Subtitrări',
           pl: 'Napisy'
         }
-      },
+      },*/
       slide: {
         en: 'Welcome to the course! This is the slide area where the course content will be displayed. Use the navigation buttons to move between slides.',
         ar: 'مرحبًا بك في الدورة! هذه هي منطقة الشريحة حيث سيتم عرض محتوى الدورة. استخدم أزرار التنقل للتحرك بين الشرائح.',
