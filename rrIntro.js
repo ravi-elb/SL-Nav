@@ -141,7 +141,7 @@ const updateHelperCSS = () => {
           pl: 'Kontrolki odtwarzania'
         },
         next: {
-          en: 'Next Slide',
+          en: 'Next Button',
           ar: 'الشريحة التالية',
           ur: 'اگلی سلائیڈ',
           nl: 'Volgende dia',
@@ -153,7 +153,7 @@ const updateHelperCSS = () => {
           pl: 'Następny slajd'
         },
         prev: {
-          en: 'Previous Slide',
+          en: 'Previous Button',
           ar: 'الشريحة السابقة',
           ur: 'پچھلی سلائیڈ',
           nl: 'Vorige dia',
@@ -237,8 +237,8 @@ const updateHelperCSS = () => {
         ro: 'Aceste controale îți permit să redai sau să pui pauză la redarea diapozitivelor. Poți controla ritmul conținutului cursului în funcție de preferințele tale.',
         pl: 'Te kontrolki umożliwiają odtwarzanie lub wstrzymywanie slajdów. Możesz kontrolować tempo treści kursu w zależności od swoich preferencji.'
       },
-      captions: {
-        en: 'These captions provide additional information about the course multimdeia content, making it easier to follow along.',
+      /* captions: {
+        en: 'These captions provide additional information about the course multimedia content, making it easier to follow along.',
         ar: 'توفر هذه التسميات التوضيحية معلومات إضافية حول محتوى الدورة، مما يسهل متابعتها.',
         ur: 'یہ کیپشن کورس کے مواد کے بارے میں اضافی معلومات فراہم کرتے ہیں، جو اسے سمجھنے میں آسانی فراہم کرتے ہیں۔',
         nl: 'Deze ondertitels geven extra informatie over de cursusinhoud, zodat je makkelijker kunt volgen.',
@@ -248,7 +248,7 @@ const updateHelperCSS = () => {
         pt: 'Essas legendas fornecem informações adicionais sobre o conteúdo do curso, facilitando o acompanhamento.',
         ro: 'Aceste subtitrări oferă informații suplimentare despre conținutul cursului, facilitând urmărirea acestuia.',
         pl: 'Te napisy zapewniają dodatkowe informacje o treści kursu, ułatwiając jego śledzenie.'
-      },
+      },*/
       next: {
         en: 'To move to the next slide, click the "Next" button. It will take you to the next topic or module in the course.',
         ar: 'للانتقال إلى الشريحة التالية، انقر على زر "التالي". سوف ينقلك إلى الموضوع أو الوحدة التالية في الدورة.',
