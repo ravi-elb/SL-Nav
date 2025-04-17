@@ -1,5 +1,3 @@
-// Developed by: @nrzmalik
-
 // Helper function for updating CSS
 const updateHelperCSS = () => {
     const helperLayer = document.querySelector('.introjs-helperLayer');
